@@ -18,6 +18,6 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 
 ---
 
-## O que fazer com este arquivo
+## Projetos
 
-Ao fazer o *fork* do repositório, o aluno está livre para modificar este arquivo como quiser dentro do seu próprio *fork*.
+- [Galton Board Digital](./projetos/galton_board/)
