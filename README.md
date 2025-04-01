@@ -20,6 +20,6 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 
 ## Projetos
 
-- [Projeto Final da Primeira Fase](./projetos/proj-bitdoglab)
+- [Projeto Final da Primeira Fase](./projetos/proj_bitdoglab)
 - [Galton Board Digital](./projetos/galton_board/)
 
