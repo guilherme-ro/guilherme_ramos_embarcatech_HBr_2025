@@ -1,22 +1,40 @@
-# proj-bitdoglab
-Desenvolvimento de um software bare metal de fins educativos para a placa de circuito integrado BitDogLab, que possui embutida nela a placa Raspberry Pi Pico W, com o microcontrolador RP2040. O projeto desenvolvido é baseado no software de inicialização da BitDogLab
+# Monitor da temperatura interna da MCU - RP2040
+Desenvolvimento de um programa em linguagem C com pico SDK que lê a temperatura interna do RP2040 e converte a leitura do ADC em um valor em ºC.
 
 ### Hardware:
 
 - Placa BitDogLab com o microcontrolador Raspberry Pi Pico W embutido.
 - Display OLED compatível.
-- Matriz de 25 LEDs RGB.
-- LED RGB isolado.
-- Microfone integrado.
-- Joystick analógico.
-- Botões A e B.
-- Buzzer A e Buzzer B.
-- Módulo Wi-Fi.
+- Matriz de 25 LEDs RGB. (não utilizada)
+- LED RGB isolado. (não utilizado)
+- Microfone integrado. (não utilizado)
+- Joystick analógico. (não utilizado)
+- Botões A e B. (não utilizados)
+- Buzzer A e Buzzer B. (não utilizados)
+- Módulo Wi-Fi. (não utilizado)
 
 ### Software:
 
-- Código desenvolvido em linguagem C utilizando o Pico SDK.
+- Código desenvolvido em linguagem C com Pico SDK.
 - Implementação modular e estruturada do código.
-- Leitura e processamento de entrada dos botões, joystick e microfone.
-- Controle de saída para LEDs, display OLED e buzzer.
-- Implementação de comunicação Wi-Fi e interface web para controle remoto.
+
+### Comportamento do Programa:
+
+Mostra a leitura da temperatura interna do RP2040 em ºC
+
+### Como Compilar no Linux:
+
+cd ~pico/projeto
+
+mkdir build
+
+cd build
+
+cmake ..
+
+make
+
+export PICO_SDK_PATH=/home/$USER/pico/pico-sdk 
+(adapte conforme necessário)
+
+cp nome_arquivo_c.uf2 /media/$USER/RPI-RP2/
