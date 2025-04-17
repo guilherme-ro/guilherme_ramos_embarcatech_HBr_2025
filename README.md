@@ -21,5 +21,8 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 ## Projetos
 
 - [Projeto Final da Primeira Fase](./projetos/proj_bitdoglab)
+- [Contador Decrescente com eventos de Botões](./projetos/contador-decrescente-bitdoglab)
+- [Leitura de Sinais Analógicos do Joystick](./projetos/leitura-sinais-analogicos-joystick)
+- [Monitor da Temperatura Interna do RP2040](./projetos/monitor-temperatura-interna-MCU)
 - [Galton Board Digital](./projetos/galton_board/)
 
