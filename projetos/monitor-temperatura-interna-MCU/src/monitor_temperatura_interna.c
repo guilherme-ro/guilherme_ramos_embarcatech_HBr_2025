@@ -45,7 +45,7 @@ void main(void) {
         float temp_celsius_media = 27.0f - (voltage_media - 0.706f) / 0.001721f;
 
         snprintf(buffer1, sizeof(buffer1), "Temperatura: %.2f C", temp_celsius);
-        snprintf(buffer2, sizeof(buffer2), "Média: %.2f C", temp_celsius_media);
+        snprintf(buffer2, sizeof(buffer2), "Media: %.2f C", temp_celsius_media);
 
         ssd1306_clear(&disp);
         ssd1306_draw_string(&disp, 0, 0, 1, buffer1);       
