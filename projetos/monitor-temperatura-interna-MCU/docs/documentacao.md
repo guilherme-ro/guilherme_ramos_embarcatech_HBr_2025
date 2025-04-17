@@ -14,7 +14,6 @@ projetos/
     │   └── monitor_temperatura_interna.c
     │   └── CMakeLists.txt
     │   └── pico_sdk_import.cmake
-    │   └── pico_sdk_import.cmake
     │   └── ssd1306/
     │       └── ssd1306.c
     │       └── ssd1306.h
