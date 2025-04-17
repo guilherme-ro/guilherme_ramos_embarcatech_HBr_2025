@@ -14,7 +14,6 @@ projetos/
     │   └── leitura_sinais_joystick.c
     │   └── CMakeLists.txt
     │   └── pico_sdk_import.cmake
-    │   └── pico_sdk_import.cmake
     │   └── ssd1306/
     │       └── ssd1306.c
     │       └── ssd1306.h
