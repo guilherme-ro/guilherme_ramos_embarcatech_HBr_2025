@@ -24,7 +24,7 @@ Mostra a leitura da temperatura interna do RP2040 em ºC
 
 ### Cálculo da Média de 10 amostras
 
-Além da leitura e conversão para oC da temperatura interna do RP2040, optou-se também em ler mais 10 amostras de temperatura e também exibir no display OLED a média dessas amostras para fazer um comparativo com uma amostra só captada e comparar se há um desvio muito grande em relação à média.
+Além da leitura e conversão para ºC da temperatura interna do RP2040, optou-se também em ler mais 10 amostras de temperatura e também exibir no display OLED a média dessas amostras para fazer um comparativo com uma amostra só captada e comparar se há um desvio muito grande em relação à média.
 
 O código para ler as 10 amostras segue abaixo. O código escrito para ler apenas um valor é raw = adc_read();
 
