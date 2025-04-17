@@ -38,6 +38,12 @@ for (int i = 0; i < 10; i++) {
 uint16_t raw_media = sum / 10;
 ```
 
+### Imagem do Projeto
+<p align="center">
+  <img src="https://github.com/guilherme-ro/guilherme_ramos_embarcatech_HBr_2025/raw/main/projetos/monitor-temperatura-interna-MCU/assets/temperatura-interna-RP2040.jpg" width="500" height="600" alt="Bitdoglab">
+</p>
+
+
 ### Como Compilar no Linux:
 
 cd ~pico/projeto
