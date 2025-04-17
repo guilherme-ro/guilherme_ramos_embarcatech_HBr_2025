@@ -22,6 +22,12 @@ Desenvolvimento de um programa em linguagem C com pico SDK que lê os valores co
 
 Mostra a leitura das coordenadas x e y do Joystick.
 
+### Imagem do Projeto
+<p align="center">
+  <img src="https://github.com/guilherme-ro/guilherme_ramos_embarcatech_HBr_2025/raw/main/projetos/leitura-sinais-analogicos-joystick/assets/leitura-joystick.jpg" width="500" height="600" alt="Bitdoglab">
+</p>
+
+
 ### Como Compilar no Linux:
 
 cd ~pico/projeto
