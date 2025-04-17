@@ -1,4 +1,4 @@
-# Contador Decrescente com interrupção atuando nos botões
+# Leitura de Sinais Analógicos do Joystick
 Desenvolvimento de um programa em linguagem C com pico SDK que lê os valores convertidos digitalmente do joystick da BitDogLab.
 
 ### Hardware:
