@@ -71,6 +71,14 @@ void gpio_callback(uint gpio, uint32_t events) {
 }
 ```
 
+### Imagem do Projeto
+<p align="center">
+  <img src="https://github.com/guilherme-ro/guilherme_ramos_embarcatech_HBr_2025/raw/main/projetos/contador-decrescente-bitdoglab/assets/contador-decrescente.jpg" width="300" alt="Imagem centralizada">
+</p>
+
+
+
+
 ### Como Compilar no Linux:
 
 cd ~pico/projeto
