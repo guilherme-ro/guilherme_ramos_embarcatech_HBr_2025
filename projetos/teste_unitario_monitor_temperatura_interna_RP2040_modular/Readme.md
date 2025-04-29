@@ -83,3 +83,9 @@ cp nome_arquivo_c.uf2 /media/$USER/RPI-RP2/
 ```
 (executar esse comando para o arquivo principal ou para o arquivo de teste, ajustando nome_arquivo_c.uf2)
 
+* Testes:
+
+```bash
+minicom -D /dev/ttyACM0
+```
+
