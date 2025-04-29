@@ -34,5 +34,7 @@ projetos/
 ### 🧩 Referências
 
 https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html
+
 https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf
+
 https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
