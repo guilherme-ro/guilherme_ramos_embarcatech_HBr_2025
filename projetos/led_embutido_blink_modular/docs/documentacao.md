@@ -8,7 +8,7 @@ Este documento complementa o `README.md` com Estrutura do Projeto e Referências
 
 ```bash
 projetos/
-└── leitura-sinais-analogicos-joystick/
+└── led_embutido_blink_modular/
     ├── README.md
     ├── src/
     │   └── CMakeLists.txt
