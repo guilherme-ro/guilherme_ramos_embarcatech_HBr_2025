@@ -29,20 +29,20 @@ LED embutido da Raspberry Pi Pico W pisca indefinidamente.
 </p>
 
 ### Como Compilar no Linux:
-
+```bash
 cd ~pico/projeto
-
 mkdir build
-
 cd build
-
 cmake ..
-
 make
-
-export PICO_SDK_PATH=/home/$USER/pico/pico-sdk 
+```
+```bash
+export PICO_SDK_PATH=/home/$USER/pico/pico-sdk
+```
 (adapte conforme necessário)
 
+```bash
 cp nome_arquivo_c.uf2 /media/$USER/RPI-RP2/
+```
 
 
