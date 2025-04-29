@@ -31,7 +31,7 @@ O programa de teste retorna o teste aplicado na função hal_adc_to_celsius(uint
 </p>
 
 <p align="center">
-  <img src="https://github.com/guilherme-ro/guilherme_ramos_embarcatech_HBr_2025/raw/main/projetos/teste_unitario_monitor_temperatura_interna_RP2040_modular/assets/teste_unitario.png" width="539" height="224" alt="Teste Unitário">
+  <img src="https://github.com/guilherme-ro/guilherme_ramos_embarcatech_HBr_2025/raw/main/projetos/teste_unitario_monitor_temperatura_interna_RP2040_modular/assets/teste_unitario.png" width="579" height="264" alt="Teste Unitário">
 </p>
 
 ### Como Compilar no Linux:
