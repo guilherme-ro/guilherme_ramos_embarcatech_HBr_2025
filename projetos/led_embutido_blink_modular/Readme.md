@@ -25,7 +25,7 @@ LED embutido da Raspberry Pi Pico W pisca indefinidamente.
 
 ### Imagem do Projeto
 <p align="center">
-  <img src="https://github.com/guilherme-ro/guilherme_ramos_embarcatech_HBr_2025/raw/main/projetos/contador-decrescente-bitdoglab/assets/contador-decrescente.jpg" width="500" height="600" alt="Bitdoglab">
+  <img src="https://github.com/guilherme-ro/guilherme_ramos_embarcatech_HBr_2025/raw/main/projetos/led_embutido_blink_modular/assets/led_RP2040_blink.jpg" width="500" height="600" alt="LED RP2040">
 </p>
 
 ### Como Compilar no Linux:
