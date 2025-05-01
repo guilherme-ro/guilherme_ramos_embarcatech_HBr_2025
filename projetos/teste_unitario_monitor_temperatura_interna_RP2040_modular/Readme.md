@@ -25,6 +25,14 @@ O programa principal exibe no display a leitura da temperatura interna do RP2040
 
 O programa de teste retorna o teste aplicado na função hal_adc_to_celsius(uint16_t adc_val) do arquivo hal/hal_temp_sensor.c.
 
+Considerações sobre o teste:
+
+- A função recebe um inteiro sem sinal, conforme o enunciado pede, hal_adc_to_celsius(uint16_t adc_val), sendo esse inteiro um valor fixo entre 0 e 4095 (12 bits) ajustado de acordo para o teste passar. Esse valor é uma simulação de leitura do sensor de ADC interno do RP2040.
+- A fórmula de conversão de ADC para graus Celsius é: 
+$$T = 27 - \left( \frac{ \left( \frac{\text{adc\_val} * 3.3}{4095} \right) - 0.706 }{0.001721} \right)$$
+Em que, adc_val * 3.3/4095 converte o valor do ADC para a tensão correspondente;
+
+
 ### Imagem do Projeto
 <p align="center">
   <img src="https://github.com/guilherme-ro/guilherme_ramos_embarcatech_HBr_2025/raw/main/projetos/teste_unitario_monitor_temperatura_interna_RP2040_modular/assets/temperatura-interna-RP2040.jpg" width="500" height="600" alt="Monitor de Temperatura do RP2040">
