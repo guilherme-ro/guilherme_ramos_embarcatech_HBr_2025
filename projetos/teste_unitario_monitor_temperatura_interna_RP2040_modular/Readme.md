@@ -34,6 +34,8 @@ $$T = 27 - \left( \frac{ \left( \frac{\text{adc\-val} * 3.3}{4095} \right) - 0.7
 
 Em que, adc_val * 3.3/4095 converte o valor do ADC para a tensão correspondente, em número de ponto flutuante;
 
+- O valor obtido com o teste foi 27.61, e o teste passou com margem de erro de 0.7.
+
 
 ### Imagem do Projeto
 <p align="center">
