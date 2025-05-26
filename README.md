@@ -27,4 +27,5 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 - [Estruturação de código para arquitetura modular](./projetos/led_embutido_blink_modular)
 - [Teste unitário com a bibliotca de Testes Unity](./projetos/teste_unitario_monitor_temperatura_interna_RP2040_modular)
 - [Galton Board Digital](./projetos/lab01_galton_board-guilherme-ro-main/) 
+- [Segurança em IoT com BitDogLab](./projetos/tarefa-iot-security-lab-sociedade-esportiva-embarcatech-main/) 
 
