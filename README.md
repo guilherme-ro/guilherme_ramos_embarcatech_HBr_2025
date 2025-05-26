@@ -26,5 +26,5 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 - [Monitor da Temperatura Interna do RP2040](./projetos/monitor-temperatura-interna-MCU)
 - [Estruturação de código para arquitetura modular](./projetos/led_embutido_blink_modular)
 - [Teste unitário com a bibliotca de Testes Unity](./projetos/teste_unitario_monitor_temperatura_interna_RP2040_modular)
-- [Galton Board Digital](./projetos/galton_board/)
+- [Galton Board Digital](./projetos/lab01_galton_board-guilherme-ro-main/) 
 
